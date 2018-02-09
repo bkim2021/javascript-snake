@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    font-family: 'Inconsolata';
+    color: white;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+}
+
+.blank {
+    background-color: black;
+}
+
+.snake {
+    background-color: greenyellow;
+}
+
+.wall {
+    background-color: green;
+}
+
+.fruit {
+    background-color: red;
+}
+
+a {
+    color: rgb(187, 187, 187);
+}
