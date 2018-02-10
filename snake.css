@@ -14,6 +14,7 @@ td {
     height: 20px;
 }
 
+/** Classes make the colors show up like this on the grid.**/
 .blank {
     background-color: black;
 }
